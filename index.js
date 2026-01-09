@@ -17,7 +17,7 @@ const os = require("os");
 // --- CONFIGURATION ---
 const SESSION_FOLDER = 'session';
 const SESSION_ID = process.env.SESSION_ID; 
-const OWNER_NUMBER = "254746404008"; // Your number
+const OWNER_NUMBER = "254705575315"; // Your number
 const OWNER_JID = OWNER_NUMBER + "@s.whatsapp.net";
 const PREFIX = "!";
 const logger = pino({ level: 'silent' });
